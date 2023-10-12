@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/dbconfig.json",
+    "extension": "json",
+    "changes": [
+      {
+        "input": "applicationUrl",
+        "output": "${config.INBOX_PATH}"
+      }
+  ]
+  }
+]
