@@ -1,5 +1,5 @@
 {
-  "name": "systemconfigs",
+  "name": "system-configuration-automation",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
