@@ -5,21 +5,20 @@
   "scripts": {
     "test": "node index.js"
   },
-  "author": "Hardik Parmar ( Software Consultant, APAC Development Team )",
+  "author": "Hardik Parmar ( Software Consultant )",
   "license": "ISC",
-  "description": "This is autoamated scripts for file and db changes when initiating installation setup of project (Ideal6)",
+  "description": "This is automated scripts for file and db changes when initiating installation setup of project",
   "dependencies": {
     "path": "^0.12.7",
     "xml2js": "^0.6.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.credenceanalytics.com/apac-development-team/interface/common-module/system-configuration-automation.git"
+    "url": "https://github.com/hardikp-98/system-configuration-automation.git"
   },
   "keywords": [
     "automatation",
-    "scripts",
     "file",
-    "db"
+    "configuration"
   ]
 }
