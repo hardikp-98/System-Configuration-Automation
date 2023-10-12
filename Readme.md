@@ -1,5 +1,10 @@
 # Auto System Configuration Tool
 
+
+[![Node.js](https://img.shields.io/badge/Node.js-14.17.3-green.svg)](https://nodejs.org/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://github.com/yourusername/yourproject)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/yourusername/yourproject/pulls)
 Welcome to the Auto System Configuration Tool! This Node.js project helps you automate system configuration by dynamically updating configuration files based on your specifications.
 
 ## Project Structure
@@ -107,8 +112,3 @@ If you encounter issues:
 For any further assistance, feel free to reach out!
 
 ---
-
-[![Node.js](https://img.shields.io/badge/Node.js-14.17.3-green.svg)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://github.com/yourusername/yourproject)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/yourusername/yourproject/pulls)
